@@ -1,0 +1,4 @@
+# Render Build Configuration
+# This file tells Render which Go version to use
+
+GO_VERSION=1.22
