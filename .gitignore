@@ -1,0 +1,28 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.production
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+coverage/
+.cache/
+
+# Backend
+backend/tmp/
+backend/*.exe
+backend/*.dll
+backend/*.so
+backend/*.dylib
+backend/flight-booking-api
+backend/air_tmp/
+
+# Frontend
+frontend/dist/
+frontend/node_modules/
+frontend/.vite/
